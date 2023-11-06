@@ -1,1 +1,1 @@
-# REcipes project to display basic html
+# Recipes project to display basic html
