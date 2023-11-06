@@ -1,1 +1,1 @@
-# odin-recipes
+# REcipes project to display basic html
